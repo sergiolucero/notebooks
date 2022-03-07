@@ -1,0 +1,8 @@
+ETV.ipynb
+PadronS3.ipynb
+PrefectBLC.ipynb
+PyCaret_Driv.ipynb
+Scrapers.ipynb
+Television.ipynb
+TensorFlow_BostonHousing.ipynb
+ruta_museos.ipynb
